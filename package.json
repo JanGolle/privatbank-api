@@ -8,17 +8,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/egor-manjula/privatbank-api.git"
+    "url": "git+https://github.com/jangolle/privatbank-api.git"
   },
-  "author": "Manzhula Egor",
-  "keywords": ["privatbank", "merchant", "client", "api"],
+  "author": "Elijah Zakirov",
+  "keywords": [
+    "privatbank",
+    "merchant",
+    "client",
+    "api"
+  ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/egor-manjula/privatbank-api/issues"
+    "url": "https://github.com/jangolle/privatbank-api/issues"
   },
-  "homepage": "https://github.com/egor-manjula/privatbank-api#readme",
+  "homepage": "https://github.com/jangolle/privatbank-api#readme",
   "dependencies": {
     "moment": "^2.17.1",
-    "xml2json": "^0.11.0"
+    "xml2js": "^0.4.19"
   }
 }
